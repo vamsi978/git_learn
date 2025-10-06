@@ -1,0 +1,2 @@
+Admin can create and delete users
+Admin can also changes role access
